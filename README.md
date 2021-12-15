@@ -3,8 +3,6 @@
 
 
 ## Installation:
-
-### Manual:
 Rename the folder from **vscode-theme-BroSeti** to **theme-BroSeti**
 
 #### path:
